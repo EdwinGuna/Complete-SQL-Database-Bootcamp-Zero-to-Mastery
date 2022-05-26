@@ -22,5 +22,7 @@ SELECT * FROM employees;
 * Make sure there are no nulls
 */
 
+******for this exercise, there's no country table in DB World********
+
 SELECT * FROM country;
 
